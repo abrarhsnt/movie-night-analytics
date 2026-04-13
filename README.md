@@ -1,5 +1,5 @@
 # Movie Night Analytics
-
+[![Movie Night Analytics Dashboard](movie_night_analytics.png)](movie_night_analytics.png)
 We watched one classic film every Saturday for 99 weeks.  
 This project analyses our ratings, favourite directors, genres, keywords, and more – using **pandas**, **matplotlib**, **seaborn**, and **scikit‑learn**.
 
